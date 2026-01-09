@@ -257,3 +257,32 @@ padding: 16px 0;
   padding-top: 16px;
 }
 /* Brain Part Start */
+
+/* Think Part Start */
+.think-container{
+border-radius: 12px;
+background: rgba(247, 246, 242, 1);
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+padding: 80px 40px;
+}
+
+.think-title{
+color: rgba(0, 25, 49, 1);
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+text-transform: capitalize;
+}
+
+.think-text1{
+  padding-top: 16px;
+  padding-bottom: 24px;
+}
+
+.think-text2{
+  padding-top: 16px;
+}
+/* Think Part End */
