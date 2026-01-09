@@ -286,3 +286,61 @@ text-transform: capitalize;
   padding-top: 16px;
 }
 /* Think Part End */
+
+/* Footer Part Start */
+.footer-container{
+background:  rgba(0, 25, 49, 1);
+margin-top: 120px;
+}
+
+.footer-content{
+  width: 85%;
+  max-width: 1366px;
+  margin: 0 auto;
+display: flex;
+justify-content: space-between;
+align-items: center;
+color: white;
+padding-top: 120px;
+}
+
+h6{
+font-size: 20px;
+font-weight: 500;
+line-height: 28px;
+text-align: left;
+padding-bottom: 16px;
+}
+
+.footer-icon{
+  width: 220px;
+
+}
+.footer-icon-img{
+  display: flex;
+  gap: 16px;
+  
+}
+
+
+hr{
+  margin-top: 80px;
+  border: 1px solid var(--DS New/Colors/Stroke/Gray-Light, rgba(229, 231, 235, 1));
+opacity: 0.2;
+
+}
+
+.footer-container .primary-text{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  
+}
+
+
+
+.footer-end{
+width: 85%;
+  max-width: 1366px;
+  margin: 0 auto;
+}
+/* Footer Part End */
